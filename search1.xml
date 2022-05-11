@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testing>
+    <links>
+        <link>
+            <url>https://www.google.com/search?q=coding&amp;oq=coding&amp;aqs=chrome.0.69i59j0i512l5j46i512j0i512l3.5624j0j7&amp;sourceid=chrome&amp;ie=UTF-8</url>
+            <pageName>coding -Cautare Google</pageName>
+            <wordCount>1</wordCount>
+        </link>
+        <link>
+            <url>https://vk.com/</url>
+            <pageName>https://vk.com/feed - Home page</pageName>
+            <wordCount>10</wordCount>
+        </link>
+        <link>
+            <url>https://steamcommunity.com/</url>
+            <pageName>Steam</pageName>
+            <wordCount>84</wordCount>
+        </link>
+        <link>
+            <url>https://e.mail.ru/inbox/?back=1</url>
+            <pageName>Mail</pageName>
+            <wordCount>12</wordCount>
+        </link>
+        <link>
+            <url>https://999.md/ro/profile/</url>
+            <pageName>999</pageName>
+            <wordCount>734</wordCount>
+        </link>
+        <link>
+            <url>https://www.apple.com/md/</url>
+            <pageName>technology company</pageName>
+            <wordCount>83</wordCount>
+        </link>
+        <link>
+            <url>https://earth.google.com/web/</url>
+            <pageName>Explore Google Earth.</pageName>
+            <wordCount>238</wordCount>
+        </link>
+        <link>
+            <url>https://filmix.ac/</url>
+            <pageName>Filmix.</pageName>
+            <wordCount>932</wordCount>
+        </link>
+        <link>
+            <url>https://www.moldcell.md/</url>
+            <pageName>mobile network operator company</pageName>
+            <wordCount>168</wordCount>
+        </link>
+        <link>
+            <url>https://autoshina.md/ro/autoservice/</url>
+            <pageName>Service auto</pageName>
+            <wordCount>1196</wordCount>
+        </link>
+    </links>
+</testing>
